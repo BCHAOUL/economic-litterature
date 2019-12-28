@@ -1,3 +1,5 @@
+import requests
+from bs4 import BeautifulSoup
 class InquiryNatureCauseWealth:
     def __init__(self):
         self.title = "An Inquiry into the Nature and Causes of the Wealth of Nations"
