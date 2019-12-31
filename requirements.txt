@@ -1,0 +1,7 @@
+bs4
+request
+pandas
+nltk
+numpy
+sklearn
+gensim
