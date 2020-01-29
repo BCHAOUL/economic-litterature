@@ -7,15 +7,11 @@ output:
     theme: cosmo
 ---
 
-```{r}
+```{r include=FALSE}
 library(reticulate)
+#use_python("C:/Users/Axel-Cleris Gailloty/science/Scripts/python")
 ```
 
-
-```{python}
-import sys
-sys.version
-```
 
 
 # Text processing and modelling
